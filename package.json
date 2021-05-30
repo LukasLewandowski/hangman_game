@@ -1,0 +1,19 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write app",
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "Lukas Lewandowski",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
